@@ -1,0 +1,14 @@
+C:\Users\husey\Desktop\PatikaDev\Odev1\bin\Debug\net9.0\Odev1.exe
+C:\Users\husey\Desktop\PatikaDev\Odev1\bin\Debug\net9.0\Odev1.deps.json
+C:\Users\husey\Desktop\PatikaDev\Odev1\bin\Debug\net9.0\Odev1.runtimeconfig.json
+C:\Users\husey\Desktop\PatikaDev\Odev1\bin\Debug\net9.0\Odev1.dll
+C:\Users\husey\Desktop\PatikaDev\Odev1\bin\Debug\net9.0\Odev1.pdb
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfo.cs
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\Odev1.dll
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\refint\Odev1.dll
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\Odev1.pdb
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\Odev1.genruntimeconfig.cache
+C:\Users\husey\Desktop\PatikaDev\Odev1\obj\Debug\net9.0\ref\Odev1.dll
